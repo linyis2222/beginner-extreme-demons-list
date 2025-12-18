@@ -140,7 +140,7 @@ const demons = [
    =========================== */
 const changeLog = [
   { date: '2025-12-18', detail: 'Uprise이/가 Cataclysm 위, HyperSonic 아래인 6위에 등재되었습니다.' },
-  { date: '2025-12-18', detail: 'Retention이/가 Deception Dive 위, Volume 아래인 3위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Retention이/가 Deception Dive 위, Volume 아래인 2위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Volume이/가 Deception Dive 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Deception Dive이/가 Allegiance 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Cataclysm이/가 eclipse 위, HyperSonic 아래인 3위에 등재되었습니다.' },
