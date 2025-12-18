@@ -227,6 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
     mapId = document.getElementById('map-id');
     mapPassword = document.getElementById('map-password');
     mapTag = document.getElementById('map-tag');
+    mapTier = document.getElementById('map-tier');
     
     // ⭐️ HTML ID와 일치하도록 수정
     searchInput = document.getElementById('search-input'); 
