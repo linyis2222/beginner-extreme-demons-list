@@ -1,5 +1,16 @@
 const demons = [
   {
+    name: "Deception Dive",
+    creators: "ZenthicAlpha, Ryder, RealZober, Rustam, Krampux, Berke423, Platnuu, Lucasyecla99, Disp, Sharks, -, Mazl",
+    verifier: "Berke423",
+    publisher: "Rustam",
+    video: "https://www.youtube.com/embed/jJIcx44_4-8",
+    id: "34379100",
+    password: "635897",
+    tag: "2.1, XL, 2분 이상, 후살, 템포가 빠른 맵, 올라운더형 맵, 높은 CPS",
+    tier: "22"
+  },
+  {
     name: "Allegiance",
     creators: "nikroplays",
     verifier: "EndLevel",
@@ -19,6 +30,17 @@ const demons = [
     id: "30219145",
     password: "비밀번호 없음",
     tag: "2.1, Long, 러닝, 듀얼, 타이밍, 올라운더형 맵",
+    tier: "21"
+  },
+  {
+    name: "Cataclysm",
+    creators: "Ggb0y",
+    verifier: "Riot",
+    publisher: "Ggb0y",
+    video: "https://www.youtube.com/embed/vGV4j8C66JY",
+    id: "3979721",
+    password: "666777",
+    tag: "2.0, Long, 피지, 비행기 모드, 웨이브 모드, 초크포인트, 올라운더형 맵",
     tier: "21"
   },
   {
@@ -84,6 +106,8 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
+  { date: '2025-12-18', detail: 'Deception Dive이/가 Allegiance 위인 1위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Cataclysm이/가 eclipse 위, HyperSonic 아래인 3위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'HyperSonic이/가 eclipse 위, Allegiance 아래인 2위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Allegiance이/가 eclipse 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Mystic Bounds이/가 niwa 위, eclipse 아래인 2위에 등재되었습니다.' },
