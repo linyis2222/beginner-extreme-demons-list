@@ -6,8 +6,8 @@ const demons = [
     publisher: "CairoX",
     video: "https://www.youtube.com/embed/CELNmHwln_c",
     id: "119544028",
-    password: "Free to Copy"
-    tag: "abc",
+    password: "Free to Copy",
+    tag: "abc"
   },
   {
     name: "Amethyst",
@@ -16,7 +16,8 @@ const demons = [
     publisher: "iMist",
     video: "https://www.youtube.com/embed/4lfkzz1VCbA",
     id: "119550490",
-    password: "Free to Copy"
+    password: "Free to Copy",
+    tag: "abc"
   },
   {
     name: "Flamewall",
@@ -25,7 +26,8 @@ const demons = [
     publisher: "UNarwall",
     video: "https://www.youtube.com/embed/x4Io4zkWVRw",
     id: "126242564",
-    password: "Free to Copy"
+    password: "Free to Copy",
+    tag: "abc"
   }
   ];
 
