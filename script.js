@@ -30,7 +30,7 @@ const demons = [
     id: "61079355",
     password: "비밀번호 없음",
     tag: "Long, 러닝, 클릭 싱크, 타이밍",
-    tier: "21"
+    tier: "20"
   }
   ];
 
