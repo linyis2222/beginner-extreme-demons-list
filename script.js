@@ -7,7 +7,8 @@ const demons = [
     video: "https://www.youtube.com/embed/1tven_pFftA",
     id: "87425029",
     password: "비밀번호 없음",
-    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵"
+    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵",
+    tier: "21"
   },
   {
     name: "Mizureta",
@@ -17,7 +18,8 @@ const demons = [
     video: "https://www.youtube.com/embed/w842SzEdLK8",
     id: "95764848",
     password: "비밀번호 없음",
-    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵"
+    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵",
+    tier: "21"
   },
   {
     name: "Acu",
@@ -27,7 +29,8 @@ const demons = [
     video: "https://www.youtube.com/embed/z6l74Mkoxm8",
     id: "61079355",
     password: "비밀번호 없음",
-    tag: "Long, 러닝, 클릭 싱크, 타이밍"
+    tag: "Long, 러닝, 클릭 싱크, 타이밍",
+    tier: "21"
   }
   ];
 
@@ -60,6 +63,7 @@ let mapVideo;
 let mapId;
 let mapPassword;
 let mapTag;
+let mapTier;
 
 // 💡 검색창 요소 ID: index.html의 'search-input'과 일치하도록 수정되었습니다.
 let searchInput; 
@@ -154,7 +158,8 @@ function selectMap(demon, liElement) {
     mapId.innerHTML = `<span class="tag">ID</span><span class="value">${escapeHtml(demon.id)}</span>`;
     mapPassword.innerHTML = `<span class="tag">PASSWORD</span><span class="value">${escapeHtml(demon.password)}</span>`;
     mapTag.innerHTML = `<span class="tag">TAGS</span><span class="value">${escapeHtml(demon.tag)}</span>`;
-
+    mapTier.innerHTML = `<span class="tag">GDDL Tier</span><span class="value">${escapeHtml(demon.tier)}</span>`;
+  
 
     document.querySelectorAll('#map-list li').forEach(el => el.classList.remove('active'));
     if (liElement) liElement.classList.add('active');
