@@ -1,5 +1,16 @@
 const demons = [
   {
+    name: "eclipse",
+    creators: "vit12",
+    verifier: "vit12",
+    publisher: "vit12",
+    video: "https://www.youtube.com/embed/lnXy6-t2Oek",
+    id: "123344470",
+    password: "비밀번호 없음",
+    tag: "2.2, Long, 비행기 모드, 웨이브 모드, 칼타이밍, 타이밍",
+    tier: "21"
+  },
+  {
     name: "niwa",
     creators: "KrazyGFX, Mrgm, peng, Blaze, Teno, Pedro, Aranda, BeClan, Titoalper, Asuith, Genoxide",
     verifier: "Teno(Original), Nicor77(Update)",
@@ -7,7 +18,7 @@ const demons = [
     video: "https://www.youtube.com/embed/1tven_pFftA",
     id: "87425029",
     password: "비밀번호 없음",
-    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵",
+    tag: "2.1, Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵",
     tier: "21"
   },
   {
@@ -18,7 +29,7 @@ const demons = [
     video: "https://www.youtube.com/embed/w842SzEdLK8",
     id: "95764848",
     password: "비밀번호 없음",
-    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵",
+    tag: "2.1, Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵",
     tier: "21"
   },
   {
@@ -29,7 +40,7 @@ const demons = [
     video: "https://www.youtube.com/embed/z6l74Mkoxm8",
     id: "61079355",
     password: "비밀번호 없음",
-    tag: "Long, 러닝, 클릭 싱크, 타이밍",
+    tag: "2.1, Long, 러닝, 클릭 싱크, 타이밍",
     tier: "20"
   }
   ];
