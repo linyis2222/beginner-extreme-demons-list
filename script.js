@@ -1,5 +1,27 @@
 const demons = [
   {
+    name: "Volume",
+    creators: "Metalface221, YakobNugget, EndLevel, MindCap",
+    verifier: "Metalface221",
+    publisher: "Metalface221",
+    video: "https://www.youtube.com/embed/SdPqLKYp-Uc",
+    id: "48020496",
+    password: "비밀번호 없음",
+    tag: "2.1, Long, 중살, 피지컬, 비행기 모드, 웨이브 모드, 타이밍, 초크포인트",
+    tier: "22"
+  },
+  {
+    name: "Retention",
+    creators: "WOOGI1411",
+    verifier: "WOOGI1411",
+    publisher: "WOOGI1411",
+    video: "https://www.youtube.com/embed/3VUfd7jRt5U",
+    id: "18697406",
+    password: "비밀번호 없음",
+    tag: "2.0, Long, 러닝, 듀얼, 암기, 타이밍",
+    tier: "22"
+  },
+  {
     name: "Deception Dive",
     creators: "ZenthicAlpha, Ryder, RealZober, Rustam, Krampux, Berke423, Platnuu, Lucasyecla99, Disp, Sharks, -, Mazl",
     verifier: "Berke423",
@@ -18,7 +40,7 @@ const demons = [
     video: "https://www.youtube.com/embed/wzutYMNXr-Y",
     id: "20761188",
     password: "비밀번호 없음",
-    tag: "2.0, Long, 러닝, 비행기 모드, UFO 모드, 웨이브 모드, 템포가 빠른 맵, 올라운더형 맵",
+    tag: "2.0, Long, 중살, 러닝, 비행기 모드, UFO 모드, 웨이브 모드, 템포가 빠른 맵, 올라운더형 맵",
     tier: "21"
   },
   {
@@ -40,7 +62,7 @@ const demons = [
     video: "https://www.youtube.com/embed/vGV4j8C66JY",
     id: "3979721",
     password: "666777",
-    tag: "2.0, Long, 피지, 비행기 모드, 웨이브 모드, 초크포인트, 올라운더형 맵",
+    tag: "2.0, Long, 초살, 피지컬, 비행기 모드, 웨이브 모드, 초크포인트, 올라운더형 맵",
     tier: "21"
   },
   {
@@ -106,6 +128,7 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
+  { date: '2025-12-18', detail: 'Volume이/가 Deception Dive 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Deception Dive이/가 Allegiance 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Cataclysm이/가 eclipse 위, HyperSonic 아래인 3위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'HyperSonic이/가 eclipse 위, Allegiance 아래인 2위에 등재되었습니다.' },
