@@ -15,7 +15,7 @@ html, body {
    상단 검은 바: 제목 왼쪽, 버튼 오른쪽
    ============================== */
 #top-bar {
-  background-color: #ddd7f9;
+  background-color: #6445f2;
   display: flex;
   justify-content: space-between;
   align-items: center;
