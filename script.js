@@ -51,6 +51,7 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
+  { date: '2025-12-18', detail: 'eclipse이/가 niwa 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Acu이/가 Mizureta 아래인 3위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Mizureta이/가 niwa 아래인 2위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'niwa이/가 1위에 등재되었습니다.' },
