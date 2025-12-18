@@ -1,5 +1,27 @@
 const demons = [
   {
+    name: "Allegiance",
+    creators: "nikroplays",
+    verifier: "EndLevel",
+    publisher: "nikroplays",
+    video: "https://www.youtube.com/embed/wzutYMNXr-Y",
+    id: "20761188",
+    password: "비밀번호 없음",
+    tag: "2.0, Long, 러닝, 비행기 모드, UFO 모드, 웨이브 모드, 템포가 빠른 맵, 올라운더형 맵",
+    tier: "21"
+  },
+  {
+    name: "HyperSonic",
+    creators: "ViPriN, ZenthicAlpha, Vlacc, Serponge, nasgubb, Evasium622, Rustam, Pan, Terron, Etzer, Dudex, Manix648",
+    verifier: "Combined",
+    publisher: "ViPriN",
+    video: "https://www.youtube.com/embed/RmrPEJ7Z6lY",
+    id: "30219145",
+    password: "비밀번호 없음",
+    tag: "2.1, Long, 러닝, 듀얼, 타이밍, 올라운더형 맵",
+    tier: "21"
+  },
+  {
     name: "eclipse",
     creators: "vit12",
     verifier: "vit12",
@@ -8,6 +30,17 @@ const demons = [
     id: "123344470",
     password: "비밀번호 없음",
     tag: "2.2, Long, 비행기 모드, 웨이브 모드, 칼타이밍, 타이밍",
+    tier: "21"
+  },
+  {
+    name: "Mystic Bounds",
+    creators: "gmdmann",
+    verifier: "gmdmann",
+    publisher: "gmdmann",
+    video: "https://www.youtube.com/embed/Nqa36orr4cQ",
+    id: "93549959",
+    password: "비밀번호 없음",
+    tag: "2.1, XL, 5분 이상, NONG, 클릭 싱크, 듀얼, 템포가 빠른 맵, 올라운더형 맵",
     tier: "21"
   },
   {
@@ -51,6 +84,9 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
+  { date: '2025-12-18', detail: 'HyperSonic이/가 eclipse 위, Allegiance 아래인 2위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Allegiance이/가 eclipse 위인 1위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Mystic Bounds이/가 niwa 위, eclipse 아래인 2위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'eclipse이/가 niwa 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Acu이/가 Mizureta 아래인 3위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Mizureta이/가 niwa 아래인 2위에 등재되었습니다.' },
