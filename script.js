@@ -1,33 +1,33 @@
 const demons = [
   {
-    name: "Thinking Space II",
-    creators: "Jawis, Rin04, HaydenDom, V453C70M14, UFokinWotM8, Hyperbola, NcaT, KugelBlitZ, Triforce, Maxmur, MeatiusGaming, DrCuber, ADrone, Korewa, GhostVandalf, CairoX, RealVet, Genoxide, Crowlley, Meox, GamerKnight750, ThunderDarkness, DiamondSkull, Kevellium",
-    verifier: "zZoink",
-    publisher: "CairoX",
-    video: "https://www.youtube.com/embed/CELNmHwln_c",
-    id: "119544028",
+    name: "niwa",
+    creators: "KrazyGFX, Mrgm, peng, Blaze, Teno, Pedro, Aranda, BeClan, Titoalper, Asuith, Genoxide",
+    verifier: "Teno(Original), Nicor77(Update)",
+    publisher: "Teno",
+    video: "https://www.youtube.com/embed/1tven_pFftA",
+    id: "87425029",
     password: "Free to Copy",
-    tag: "abc"
+    tag: "NONG, Learny, Clicksync, Fast-Paced"
   },
   {
-    name: "Amethyst",
-    creators: "iMist, IvashkaUA, NoobyPro27, MinAY, BeClaNin0, Titoalper, Roselyne, ItsxEcho, GamerKnight750, Uriun112, 3DADronX, SnomGMD, Bedrock",
-    verifier: "wPopoff",
-    publisher: "iMist",
-    video: "https://www.youtube.com/embed/4lfkzz1VCbA",
-    id: "119550490",
+    name: "Mizureta",
+    creators: "Graded, peng, Tom163, Xenith, D3lteX, humbjumb, Daydream, Horizontal1, TriplasH, zoxical, Samzaya, Kacurroo, Zentraa, Vendas, Pedro, IcyConey, dutchiee",
+    verifier: "Airbound(Original), dutchiee(Update), ThisIsGDNick(Update), Shyne(Update)",
+    publisher: "dutchiee",
+    video: "https://www.youtube.com/embed/w842SzEdLK8",
+    id: "95764848",
     password: "Free to Copy",
-    tag: "abc"
+    tag: "NONG, Learny, Clicksync, Fast-Paced"
   },
   {
-    name: "Flamewall",
-    creators: "UNarwall & more(125 people)",
-    verifier: "Cuatrocientos",
-    publisher: "UNarwall",
-    video: "https://www.youtube.com/embed/x4Io4zkWVRw",
-    id: "126242564",
+    name: "Acu",
+    creators: "neigefeu",
+    verifier: "neigefeu",
+    publisher: "neigefeu",
+    video: "https://www.youtube.com/embed/z6l74Mkoxm8",
+    id: "61079355",
     password: "Free to Copy",
-    tag: "abc"
+    tag: "Learny, Clicksync, Timings"
   }
   ];
 
@@ -37,7 +37,9 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
-  { date: '2025-12-18', detail: 'niwa has been placed at #1.' },
+  { date: '2025-12-18', detail: 'Acu이/가 Mizureta 아래인 2위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Mizureta이/가 niwa 아래인 2위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'niwa이/가 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'List Created' }
   ];
 /* ===========================
