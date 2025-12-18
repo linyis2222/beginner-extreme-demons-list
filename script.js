@@ -6,7 +6,7 @@ const demons = [
     publisher: "Teno",
     video: "https://www.youtube.com/embed/1tven_pFftA",
     id: "87425029",
-    password: "Free to Copy",
+    password: "비밀번호 없음",
     tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵"
   },
   {
@@ -16,7 +16,7 @@ const demons = [
     publisher: "dutchiee",
     video: "https://www.youtube.com/embed/w842SzEdLK8",
     id: "95764848",
-    password: "Free to Copy",
+    password: "비밀번호 없음",
     tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵"
   },
   {
@@ -26,7 +26,7 @@ const demons = [
     publisher: "neigefeu",
     video: "https://www.youtube.com/embed/z6l74Mkoxm8",
     id: "61079355",
-    password: "Free to Copy",
+    password: "비밀번호 없음",
     tag: "Long, 러닝, 클릭 싱크, 타이밍"
   }
   ];
