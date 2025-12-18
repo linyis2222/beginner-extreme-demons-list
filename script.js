@@ -7,7 +7,7 @@ const demons = [
     video: "https://www.youtube.com/embed/1tven_pFftA",
     id: "87425029",
     password: "Free to Copy",
-    tag: "NONG, Learny, Clicksync, Fast-Paced"
+    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵"
   },
   {
     name: "Mizureta",
@@ -17,7 +17,7 @@ const demons = [
     video: "https://www.youtube.com/embed/w842SzEdLK8",
     id: "95764848",
     password: "Free to Copy",
-    tag: "NONG, Learny, Clicksync, Fast-Paced"
+    tag: "Long, NONG, 러닝, 클릭 싱크, 템포가 빠른 맵"
   },
   {
     name: "Acu",
@@ -27,7 +27,7 @@ const demons = [
     video: "https://www.youtube.com/embed/z6l74Mkoxm8",
     id: "61079355",
     password: "Free to Copy",
-    tag: "Learny, Clicksync, Timings"
+    tag: "러닝, 클릭 싱크, 타이밍"
   }
   ];
 
@@ -37,7 +37,7 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
-  { date: '2025-12-18', detail: 'Acu이/가 Mizureta 아래인 2위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Acu이/가 Mizureta 아래인 3위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Mizureta이/가 niwa 아래인 2위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'niwa이/가 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'List Created' }
