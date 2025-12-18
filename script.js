@@ -27,7 +27,7 @@ const demons = [
     video: "https://www.youtube.com/embed/z6l74Mkoxm8",
     id: "61079355",
     password: "Free to Copy",
-    tag: "러닝, 클릭 싱크, 타이밍"
+    tag: "Long, 러닝, 클릭 싱크, 타이밍"
   }
   ];
 
