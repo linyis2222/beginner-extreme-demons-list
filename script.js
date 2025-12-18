@@ -7,7 +7,7 @@ const demons = [
     video: "https://www.youtube.com/embed/SdPqLKYp-Uc",
     id: "48020496",
     password: "비밀번호 없음",
-    tag: "2.1, Long, 중살, 피지컬, 비행기 모드, 웨이브 모드, 타이밍, 초크포인트",
+    tag: "2.1, Long, 중살, 초크포인트, 피지컬, 비행기 모드, 웨이브 모드, 타이밍",
     tier: "22"
   },
   {
@@ -54,6 +54,17 @@ const demons = [
     tag: "2.1, Long, 러닝, 듀얼, 타이밍, 올라운더형 맵",
     tier: "21"
   },
+    {
+    name: "Uprise",
+    creators: "Astroboyzzz, Menkatjezzz",
+    verifier: "iNeo",
+    publisher: "Astroboyzzz",
+    video: "https://www.youtube.com/embed/oQBMG-aacNo",
+    id: "14977845",
+    password: "비밀번호 없음",
+    tag: "2.0, Long, 중살, 초크포인트, 피지컬, 웨이브 모드, 타이밍",
+    tier: "21"
+  },
   {
     name: "Cataclysm",
     creators: "Ggb0y",
@@ -62,7 +73,7 @@ const demons = [
     video: "https://www.youtube.com/embed/vGV4j8C66JY",
     id: "3979721",
     password: "666777",
-    tag: "2.0, Long, 초살, 피지컬, 비행기 모드, 웨이브 모드, 초크포인트, 올라운더형 맵",
+    tag: "2.0, Long, 초살, 초크포인트, 피지컬, 비행기 모드, 웨이브 모드, 올라운더형 맵",
     tier: "21"
   },
   {
@@ -128,6 +139,7 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
+  { date: '2025-12-18', detail: 'Uprise이/가 Cataclysm 위, HyperSonic 아래인 6위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Volume이/가 Deception Dive 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Deception Dive이/가 Allegiance 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Cataclysm이/가 eclipse 위, HyperSonic 아래인 3위에 등재되었습니다.' },
