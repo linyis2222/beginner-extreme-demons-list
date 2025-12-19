@@ -1,16 +1,5 @@
 const demons = [
   {
-    name: "Volume",
-    creators: "Metalface221, YakobNugget, EndLevel, MindCap",
-    verifier: "Metalface221",
-    publisher: "Metalface221",
-    video: "https://www.youtube.com/embed/SdPqLKYp-Uc",
-    id: "48020496",
-    password: "비밀번호 없음",
-    tag: "2.1, Long, 중살, 초크포인트, 피지컬, 비행기 모드, 웨이브 모드, 타이밍",
-    tier: "22"
-  },
-  {
     name: "Retention",
     creators: "WOOGI1411",
     verifier: "WOOGI1411",
@@ -139,9 +128,8 @@ const demons = [
    - 날짜는 문자열(YYYY-MM-DD 또는 로컬 포맷)로 표기.
    =========================== */
 const changeLog = [
-  { date: '2025-12-18', detail: 'Uprise이/가 Cataclysm 위, HyperSonic 아래인 6위에 등재되었습니다.' },
-  { date: '2025-12-18', detail: 'Retention이/가 Deception Dive 위, Volume 아래인 2위에 등재되었습니다.' },
-  { date: '2025-12-18', detail: 'Volume이/가 Deception Dive 위인 1위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Uprise이/가 Cataclysm 위, HyperSonic 아래인 5위에 등재되었습니다.' },
+  { date: '2025-12-18', detail: 'Retention이/가 Deception Dive 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Deception Dive이/가 Allegiance 위인 1위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'Cataclysm이/가 eclipse 위, HyperSonic 아래인 3위에 등재되었습니다.' },
   { date: '2025-12-18', detail: 'HyperSonic이/가 eclipse 위, Allegiance 아래인 2위에 등재되었습니다.' },
